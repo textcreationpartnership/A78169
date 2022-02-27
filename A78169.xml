@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bishop Barlow's state of the case, whether any books may be lent out of Sir Thomas Bodley's library? Occasioned by Mr. Selden's soliciting the University for certain MSS. out of it.</title>
+            <author>Barlow, Thomas, 1607-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78169</idno>
+            <idno type="STC">Wing B843A</idno>
+            <idno type="STC">ESTC R232421</idno>
+            <idno type="EEBO-CITATION">99897985</idno>
+            <idno type="PROQUEST">99897985</idno>
+            <idno type="VID">137597</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78169)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137597)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2542:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bishop Barlow's state of the case, whether any books may be lent out of Sir Thomas Bodley's library? Occasioned by Mr. Selden's soliciting the University for certain MSS. out of it.</title>
+                  <author>Barlow, Thomas, 1607-1691.</author>
+               </titleStmt>
+               <extent>iv p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bodley, Thomas, --  Sir, 1545-1613 --  Early works to 1800.</term>
+               <term>Libraries --  Gifts, Legacies, --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:137597:1" rendition="simple:additions"/>
+            <head>Biſhop <hi>Barlow</hi>'s State of the Caſe, Whether any Books may be lent out of Sir <hi>THOMAS BODLEY's</hi> Library? Occaſioned by Mr. <hi>Selden</hi>'s ſoliciting the UNIVERSITY for certain <hi>MSS.</hi> out of it.</head>
+            <div type="to_the_reader">
+               <head>To the READER.</head>
+               <p>THE following <hi>Caſe</hi> was drawn up by Dr. <hi>Barlow,</hi> then Head-Keeper of the <hi>Public Library</hi> at <hi>Oxford,</hi> and afterwards Biſhop of <hi>Lincoln,</hi> on Account of the Requeſt made to the <hi>Univerſity</hi> by Mr. <hi>Selden,</hi> that they would lend him certain <hi>MSS.</hi> out of the ſaid <hi>Library.</hi> It was well known that Mr. <hi>Selden</hi> had one of the moſt curious Collections of Books in <hi>Europe,</hi> and that to deny him would, in all Probability, be a great <hi>Detriment</hi> to the <hi>Public Library,</hi> he having declared his Intention of beſtowing them upon it. But notwithſtanding this, the Univerſity, upon <hi>mature Deliberation,</hi> returned him Anſwer, that they could not per<g ref="char:EOLhyphen"/>mit the Books to go out without Breach of <hi>Statute,</hi> and betraying the great <hi>Truſt</hi> repoſed in them. However, they told him withal, that they would, by Virtue of the <hi>abſolute Power</hi> lodged in them, obtain a <hi>legal Diſpenſation</hi> of the <hi>Statute,</hi> that he ſhould have Three out at a Time, provided he would give <hi>Bond</hi> of 100 <hi>l.</hi> for their Reſtitution. But that was ſo much reſented by him, that he<note n="*" place="bottom">See Bp Burnett's Life of Sir Matt. Hale, p. 15<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>6. and compare it with Mr. Wood's Ac<g ref="char:EOLhyphen"/>count of the Matter, in Hiſt. &amp; Antiq. Univ. Oxon.</note> ſtruck out that Part of his <hi>Will,</hi> by which he had given them his Books, and with ſome Paſſion declared, <hi>they ſhould never have them.</hi> Which when the <hi>Executors</hi> ſaw, they ſtuck at the Matter a little; but having conſidered better of it, they came to this Reſolution: That they were to be the <hi>Executors</hi> of Mr. <hi>Selden's Will,</hi> and not of his <hi>Paſſion;</hi> ſo they made good what he had intended in <hi>cold Blood,</hi> and paſſed over what his <hi>Paſſion</hi> had ſuggeſted to him.</p>
+               <p>It is thought proper to print this Caſe for the Satisfaction of ſuch Per<g ref="char:EOLhyphen"/>ſons, who perhaps, being ignorant of the Force of the <hi>Statute,</hi> may take it as a great Affront, if, upon Solicitation, they be denied any Book out of the <hi>Library,</hi> whereas the <hi>Statute</hi> is ſo expreſs, that there is no doubt the <hi>Univerſity</hi> will never attempt to diſpenſe with it, unleſs upon Proſpect of ſome ſuch <hi>extraordinary Benefaction</hi> as Mr. <hi>Selden</hi>'s, whoſe Books were of ſo ineſtimable a Value.</p>
+            </div>
+            <div type="case">
+               <pb n="ii" facs="tcp:137597:2"/>
+               <head>
+                  <hi>CASE. Query.</hi> Whether any Books may be lent out of Sir <hi>Thomas Bodley</hi>'s Library?</head>
+               <p n="1">1. SIR <hi>Thomas Bodley</hi>'s Statute (confirm'd in Convocation <hi>Jun.</hi> 20. <hi>Ann.</hi> 1610.) ſaith thus: —<note n="a" place="bottom">In Append. Stat. inter Stat. Bibl. Bodl. § 8.</note> 
+                  <hi>Statuimus, et in formam</hi> PERPETUI <hi>Edicti, et</hi> INDIS<g ref="char:EOLhyphen"/>PENSABILIS <hi>ordinamus; ut</hi> NULLUS <hi>de caetero,</hi> CUJUSCUNQUE LOCI, AUT STATUS, <hi>fuerit</hi> (OMNI <hi>praetextu, cauſa, ratione ceſſante</hi>) QUODCUN<g ref="char:EOLhyphen"/>QUE <hi>Volumen, ſive catenis alligatum, ſive ſolutum</hi> (QUANTALIBET <hi>praeſtita</hi> CAUTIONE, <hi>aut Fidejuſſoribus, de libro bona fide redhibendo</hi>) <hi>datum, aut commoda<g ref="char:EOLhyphen"/>tum habeat.</hi> It is impoſſible to make any Prohibition more Peremptory, and Categorical;—</p>
+               <list>
+                  <item>1. No <hi>Book</hi> whatſoever can be lent.</item>
+                  <item>2. Nor any <hi>Perſon</hi> whatſoever borrow.</item>
+                  <item>3. Nor any <hi>Caution</hi> how great ſoever be admitted.</item>
+                  <item>4. Upon no Cauſe aſſigned, or Pretence whatſoever.</item>
+                  <item>5. And this Edict is declared <hi>Perpetual</hi> and <hi>Indiſpenſable.</hi>
+                  </item>
+                  <item>6. And the Reaſon of all this Rigidneſs is given in the Preface to the Statute (by Sir <hi>Thomas Bodley,</hi> and the Univerſity) that they knew by many ſad Examples, that ſuch lending of Books had been a great Loſs and Ruin to many Libraries.—<hi>Quoniam variis anteacti temporis exemplis, cum in Academia hac noſtra, tum in aliis hujus regni partibus abundamus, undè nimis edocti ſumus,</hi> QUANTAM <hi>celeberrimis</hi> PLE<g ref="char:EOLhyphen"/>RISQUE <hi>Bibliothecis</hi> RUINAM, <hi>et</hi> PERNICIEM, <hi>invexerit frequens Librorum</hi> COMMODATIO.</item>
+               </list>
+               <p n="2">II. It is true the Pious Founder of that Library, (who by the forenamed Sta<g ref="char:EOLhyphen"/>tute would have it <hi>perpetually,</hi> and <hi>indiſpenſably</hi> unlawful to lend Books out of it) hath left a ſupreme Power in the Convocation (or Univerſity met there) to diſ<g ref="char:EOLhyphen"/>penſe with or alter any (even this) Statute.—<note n="b" place="bottom">Stat. Bodl. § 13. in calce.</note> 
+                  <hi>Atque penes hanc Domum</hi> (Convoca<g ref="char:EOLhyphen"/>tionis) <hi>interpretandi, immutandi, abrogandi, innovandi Conſtitutiones antea latas, et Decreta noſtra, ſimulque illis addendi detrabendique; in omnem denique eventum Bibliothecae incolumitati multo ante proſpiciendi, ſuprema authoritas ſemper eſto.</hi>
+               </p>
+               <p n="3">III. So that it is evident that the Convocation hath a ſupreme Authority (when to their Prudence it ſhall appear to be for the Behoof and Benefit, for the Preſer<g ref="char:EOLhyphen"/>vation and Melioration of the Library) to diſpenſe with this Statute, which the Pious Founder calls <hi>perpetual</hi> and <hi>indiſpenſable.</hi>
+               </p>
+               <p n="4">IV. But the Univerſity hath (hitherto) been ſo far from thinking it fit to diſ<g ref="char:EOLhyphen"/>penſe with this Statute, that ſhe hath declared it more indiſpenſable, and by an expreſs Law, and Statute, made it unlawful for any to endeavour, or to propoſe ſuch a Diſpenſation, no not in the Houſe of Convocation itſelf. The Stature occurs in the<note n="c" place="bottom">Stat. Acad. Oxon. Tit. X. Sect. II. § 5. De materia indiſpenſabili.</note> Book of Statutes; where I obſerve—</p>
+               <p n="1">1. The Preface to that Statute, is this.—<hi>Quia ex nimia Diſpenſandi licentia grave incommodum Univerſitati antehac obortum eſt, Statuit Univerſitas, ne in poſterum Diſpen<g ref="char:EOLhyphen"/>ſationes ullatenus proponantur in Caſibus ſequentibus.</hi>
+               </p>
+               <p n="2">2. The Statute follows, where (amongſt other things) it is thus decreed—<hi>Statuit ne circa ſupremas Benefactorum defunctorum Voluntates, aut Ordinationes eorum quaſcunque Univerſitati commendatas, nec circa Ordinationes aliquas ex Benefactorum voto vel rogatu cum Univerſitatis conſenſu, editas vel edendas, quicquam poſtea immutetur, vel de eodem immutando petitio aliqua in V. Domo Convocationis fieri permittatur.</hi>
+               </p>
+               <p>So that the Obligation of this Statute conſidered, I conceive it (at preſent) utterly unlawful</p>
+               <p>To lend any Book out of the Library.</p>
+               <p>Or ſo much as to propoſe any Diſpenſation to that End in the Convocation; for that is expreſly forbid in the Statute.</p>
+               <pb n="iii" facs="tcp:137597:2"/>
+               <p>
+                  <hi>Dub.</hi> But may not the Univerſity (having, by Statute, ſupreme Power to make, Diſpenſe with, Alter, or Abrogate any Law which concerns the Library) Diſpenſe with this, about lending Books out of it?</p>
+               <p>
+                  <hi>Anſw.</hi> Yes, Provided that it be done in a Regular, and Legal Way, which is ſet down expreſly in the Statute.—<note n="d" place="bottom">Stat. Acad. Tit. X. Sect. 2. § 5.</note> 
+                  <hi>Denique Statutum eſt, ne in aliquo caſu praemlſſo, quiſquam ſubpoena Bannitionis, Diſpenſationem proponat; niſi Cancellarius Praefectorum arbitrio rem permiſerit; ut de Conſilio maturo (in Conventu ipſorum ordinario) prius habito, ex neceſſaria, et perurgente aliqua cauſa (per Vice-Cancellarium, Collegiorum, et Aularum Praefectos, et Procuratores, vel majorem partem eorundem approbanda) hujuſ<g ref="char:EOLhyphen"/>modi Diſpenſationem in Domo Convocationis proponi permittant.</hi>
+               </p>
+               <p>By theſe Praemiſſes it manifeſtly appears (from the expreſs Words, and Letter of the Statute)</p>
+               <p>That the Statute againſt lending Books out of the Library, is (by the<note n="e" place="bottom">Vid. Appendicem Stat. inter Stat. Bibl. Bodl. § 8.</note> Will of our Pious Founder) EDICTUM PERPETUUM ET INDISPENSABILE.</p>
+               <p>And this is confirmed by the Univerſity Statute, with the Annexation of an High Penalty, making it Baniſhment for any to propoſe a Diſpenſation in this particular.</p>
+               <p>And though (notwithſtanding the Severity of theſe Statutes) the Univerſity (by her Abſolute Power) have Authority to diſpenſe in ſome Caſes, yet never without that Legal Solemnity, and Formality of Law, which is expreſſed in the Statute: that is—The Chancellor muſt be acquainted with the Buſineſs, and he muſt approve, and refer it to the Heads of Houſes, elſe no Diſpenſation can be propoſed.</p>
+               <p>And when he hath done this, unleſs the Vice-Chancellor, and Proctors, with the Major Part of the Heads of Houſes, approve it too (and that after Mature Deli<g ref="char:EOLhyphen"/>beration) it cannot yet be propoſed.</p>
+               <p>And when all this is done, unleſs the Convocation do approve it, no Diſpenſa<g ref="char:EOLhyphen"/>tion is, or can be granted.</p>
+               <p n="5">V. Here it may be further inquired,</p>
+               <p n="1">1. <hi>De Praeterito,</hi> Whether the Univerſity have Diſpenſed? And it is manifeſt She has not. For though a Diſpenſation was propoſed and granted, yet ſeeing that Propoſition wanted the neceſſary Requiſits, and Formalities of Law, ex<g ref="char:EOLhyphen"/>preſly required by Statute as Antecedent to ſuch Propoſition, therefore, 1. The Pro<g ref="char:EOLhyphen"/>poſition was Illegal. 2. The Propoſer (by Statute) Criminal, having incurred the Cenſure of Baniſhment, if the Rigour of the Statute were executed. 3. And the Conceſſion, and Grant of the Houſe, which followed upon theſe Illegalities muſt needs be null.</p>
+               <p n="2">2. <hi>De Futuro,</hi> Whether in Reaſon and Prudence She ought: that is, whether it may be rationally thought to be, <hi>è re Academiae,</hi> and for the Publick Good of the Univerſity, to diſpenſe with thoſe Statutes (which our Pious Founder, and wiſe Anceſtors made, and deſired they might continue <hi>Indiſpenſable</hi>) to gratify any pri<g ref="char:EOLhyphen"/>vate, and particular Perſon whatſoever.</p>
+               <p n="6">VI. And here I ſhall not be ſo confident (or impudent rather) as to take upon me Categorically to determine this Queſtion; that I ſhall leave (as of right I ſhould) to the Authority and Prudence of the Univerſity; only I ſhall crave leave to offer theſe Conſiderations, which poſſibly may not be altogether impertinent, as to the ſtating of this Particular.</p>
+               <p n="1">1. That the Univerſity hath hitherto eſteemed the Founder's Will and Statute ſo ſacred, that they have denyed to diſpenſe with it, though to gratify the greateſt Perſonages of this Nation. So <hi>Anno</hi> 1624, <hi>Williams</hi> Biſhop of <hi>Lincoln,</hi> and then Lord Chancellor of <hi>England,</hi> would have borrowed <hi>Paulus Benius Eugubinus de di<g ref="char:EOLhyphen"/>rimend. Controverſ. de grat. &amp; Lib. Arbit.</hi> but was denyed. Again <hi>Anno</hi> 1645. King <hi>Charles</hi> (then in <hi>Oxon</hi>) deſired to borrow Mr. <hi>D' Aubigne</hi>'s Hiſtory. Dr. <hi>Fell</hi> (the Vice-Chancellor) ſends a Command to Mr. <hi>Rouſe</hi> (then Head-Keeper of the Library) to deliver it. He goes to the King, and ſhews him the Statute, which being read, the King would not have the Book, nor permit it to be taken out of the Library; ſaying, it was fit that the Will and Statutes of the pious Founder ſhould be Religiouſly obſerved. And <hi>April</hi> 1654. My Lord Protector ſent his
+<pb n="iv" facs="tcp:137597:3"/>Letter to Mr. Vice-Chancellor to borrow a MS. <hi>(Joh. de Muris)</hi> for the <hi>Portu<g ref="char:EOLhyphen"/>gal</hi> Ambaſſador. A Copy of the Statute was ſent; (but not the Book) which, when his Highneſs had read, he was ſatisfy'd, and commended the Prudence of the Founder, who had made the Place ſo ſacred. Now would it be thought proper to lend to an <hi>Inferior</hi> Perſon, and deny my Lord Protector? Or can we think that Statute will not ſatisfie any Subject, which his Highneſs was ſo well pleaſed with?</p>
+               <p n="2">2. If the Univerſity (by her Abſolute Power) ſhould diſpenſe with this Statute (which the Pious Founder calls in diſpenſable) and give Way that one may bor<g ref="char:EOLhyphen"/>row; then by doing this to One, a Gap is open to All (who may be, or think themſelves to be as great and good) to deſire the ſame Favour: and if we conſent and lend all; by this means the Books will be diſperſed, and many Books in pri<g ref="char:EOLhyphen"/>vate Hands which were intended for the Publick.</p>
+               <p n="3">3. Suppoſe three Books at a time be lent to any private Man, 'tis true, he is furniſh'd, but 'tis manifeſtly to the Prejudice of the Publick, the Univerſity want<g ref="char:EOLhyphen"/>ing thoſe Books, while he has them: So that if any Foreigner coming hither from abroad ſhould deſire to ſee them, or any at home deſire to uſe them, both are diſ<g ref="char:EOLhyphen"/>appointed, to the Diminution of the Honour ſo the Univerſity in the one, and the Benefit it might have by thoſe Books in the other. And therefore it ſeems moſt agreeable to reaſon, and the Publick Good (and the declared Will and Pre<g ref="char:EOLhyphen"/>cept of our Prudent and Pious Founder) not to lend any Books out of the Li<g ref="char:EOLhyphen"/>brary: for by not lending, private Perſons only want the uſe of thoſe Books which are another's, whereas by lending, the Univerſity wants the Uſe of thoſe Books which are her own. Sure no prudent Man can think it fit to gratify Par<g ref="char:EOLhyphen"/>ticular Perſons with the publick Detriment.</p>
+               <p n="4">4. The Library is a Magazine, which the Pious Founder hath fixed in a Pub<g ref="char:EOLhyphen"/>lick Place, for a Publick Uſe: and though his Charity to private Perſons is ſuch, that he will hinder none (who is juſtly qualify'd and worthy) to come to it, yet his Charity to the Publick is ſuch that he would not have it Ambulatory, to go to any Private Perſon. And ſure 'tis more rational that <hi>Mahomet</hi> ſhould go to the Mountain, than that the Mountain ſhould come to <hi>Mahomet.</hi>
+               </p>
+               <p n="5">5. Lending Books makes them liable to many Caſualities, as Abſolute Loſs, either by the Carrier's Negligence or Violence offered him by the Way: or they may be loſt by the Perſon that borrows them; for (preſuming the Perſon Noble, and carefull for their Preſervation, yet) his Houſe may be burn'd, or (by Rob<g ref="char:EOLhyphen"/>bers) broke open (as Mr. Selden's unhappily was), or (in caſe they eſcape theſe Caſualities) they may be ſpoyl'd in the Carriage; as by ſad Experience we find; for above 60 or 100 Leaves of a Greek MS. (Num. 131.) lent out of <hi>Bibliotheca Borrocciana</hi> to Mr. <hi>Pat. Young,</hi> were irrecoverably defaced. Now what has hap<g ref="char:EOLhyphen"/>pened heretofore may happen hereafter; and therefore to keep them ſacredly (and without any lending) in the Library (according to our Good Founder's Will and Statute) will be the beſt way for their Preſervation.</p>
+               <p n="6">6. If the Will, and Statute of the Founder were Religiouſly kept, and all lending declared unlawfull, it would be a great Encouragement for Men to give more to that Magazine, when they ſhould ſee the Sacredneſs of the Place, and from thence be ſure, that what they gave ſhould be Religiouſly preſerved.</p>
+               <p n="7">7. Laſtly, if the Univerſity do ratify the Will, and Statute of our Pious Founder, and declare againſt lending of any Book to any Perſon, in any Caſe whatſoever (except for the Preſs,<note n="*" place="bottom">See Archbiſhop <hi>Land</hi>'s Hiſt. of his Chancellorſhip of OXFORD, p. 73 and 79.</note> which Archbiſhop <hi>Laud</hi> and Sir <hi>Kenelm Digby</hi> allow as to their Books, in their Donations) as this will conduce to the Preſer<g ref="char:EOLhyphen"/>vation of the Books, ſo 'twill free the Univerſity from Solicitations; and if any ſhould ſolicit for Borrowing any Books yet he had no Reaſon to take it ill, if he were deny'd: ſeeing 'tis impoſſible that any Perſon of Honour and Prudence can think our Fidelity to Sir <hi>Thomas Bodley</hi> to be an Incivility to Him.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
